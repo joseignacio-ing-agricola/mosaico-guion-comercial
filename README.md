@@ -1,23 +1,28 @@
-# Mosaico · Guion comercial
+# Mosaico · Asistente comercial
 
-App local en español para acompañar llamadas y reuniones comerciales.
+App en español para acompañar llamadas y reuniones.
+
+## Abrir la app
+
+https://joseignacio-ing-agricola.github.io/mosaico-guion-comercial/
+
+También puedes descargar `index.html` y abrirlo en tu navegador. No necesita instalación ni API.
 
 ## Uso
 
-Descarga `index.html` y ábrelo en tu navegador. No requiere instalación, internet ni API.
+1. Completa tu nombre, el contacto y el participante en el panel superior.
+2. Deja activado “Insertar nombres en el guion” para completar los marcadores. Desactívalo para consultar el original.
+3. Elige llamada o reunión y avanza por las partes del guion.
+4. Marca lo que dijo el cliente para ver respuestas alternativas.
+5. En celular, cambia entre Guion y Respuesta. Las objeciones rápidas están disponibles desde cualquier etapa.
+6. Prepara una confirmación y descarga el resumen antes de cerrar la página.
 
-- Guion de llamadas dividido en 10 partes.
-- Pauta de reunión dividida en 7 bloques.
-- Selección de respuestas del cliente con dos alternativas para continuar.
-- Personalización de nombres, programa, horarios, código y condiciones confirmadas.
-- Descarga de todos los guiones en texto.
+## Contenido
 
-Los datos introducidos permanecen en la página mientras está abierta y no se envían a servicios externos.
+El guion de llamadas conserva las palabras del Word suministrado, con separación visual por párrafos. Solo se sustituyen los marcadores de nombres cuando se activa esa función. El texto original completo puede descargarse por separado. Las preguntas y respuestas sugeridas se identifican como añadidas.
 
-## Material de referencia
+La pauta de reuniones se basa en los bloques de texto identificables del PPT suministrado. Las láminas visuales requieren acompañarse del PPT original.
 
-Adaptado del guion de telemarketing y de los bloques de texto identificables del PPT Mosaico 2026 suministrados. Las alternativas son propuestas añadidas. El apoyo a láminas visuales requiere la presentación original. Confirma vigencia de valores y condiciones antes de utilizarlos.
+Los datos ingresados permanecen en la página mientras está abierta y no se envían a servicios externos. No incluye audio ni IA en tiempo real.
 
-Los documentos originales no están incluidos en este repositorio. No incluye escucha de audio ni IA en tiempo real.
-
-Este repositorio guarda el código; no implica que la app esté publicada como sitio web.
+Confirma la vigencia de valores, horarios y condiciones comerciales antes de utilizarlos.
